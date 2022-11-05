@@ -1,0 +1,22 @@
+body{
+   font-family: cursive;
+   text-align: center;
+    background-image: url(./homepage2.PNG);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+       
+}
+#StartButton{
+width: 10%;
+height: 50%;
+font-size: 100%;
+background-color: lightgray;
+
+}
+#instruction{
+ position: absolute;
+ bottom: 5%;
+ margin-left: 40%;
+ background-color: burlywood;
+}
+

@@ -1,0 +1,21 @@
+body{
+    font-family: cursive;
+   text-align: center;
+    background-image: url(./assets/1062524.jpg);
+    background-size: 100vw 100vh;
+}
+#Playagain{
+width: 15vw;
+height: 5vh;
+font-size: 100%;
+background-color: lightgray;
+margin-top: 20%;
+
+}
+div.over{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
